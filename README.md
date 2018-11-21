@@ -1,3 +1,2 @@
 # webcams-locator
 Based on your mobile device location, the app will show u webcams within your range.
-The idea came out quite simply. With the development of <a href="https://www.explorewebcams.com">live webcams</a>, which are growing rapidly every day around the world, it has become difficult to navigate them. In addition to city cameras, there are lots of business cameras (like hotels, camps, monuments, pubs, restaurants) as well as private cameras. Buy, get involved, and let go online with the online webcam comes out for about $100. But how can we find such a camera? The fact that the IT enthusiast has bought and connected the webcam in Florida to his house is fine, but how can you find it? With this application, it's absolutely easy. 
